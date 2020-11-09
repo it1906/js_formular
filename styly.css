@@ -7,3 +7,20 @@ header{
     background-color: cadetblue;
     color: white;
 }
+.div{
+    text-align: center;
+}
+#tlacitko{
+    background-color: teal;
+    color: white;
+    padding: 5px;
+    text-align: right;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 12px;
+}
+
+main{
+    margin: 200px;
+    margin-top: 0px;
+}
